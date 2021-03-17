@@ -1,0 +1,11 @@
+.debug [class*="col-"]{
+  min-height: 50px;
+}
+
+.red{
+  background-color: red;
+}
+
+.bk_nav{
+  background-color: #2c3e50;
+}
