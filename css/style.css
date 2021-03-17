@@ -7,5 +7,58 @@
 }
 
 .bk_nav{
+  color: white;
   background-color: #2c3e50;
+}
+
+.jumbo_h{
+  color: white;
+  height: 200px;
+  background-color: #1abc9c;
+}
+
+.porfoglio{
+  color: #333333;
+  background-color: blueviolet;
+  padding: 10px;
+}
+
+.porfoglio [class*="col-"]{
+  border: 1px solid black;
+}
+
+.about{
+  color: white;
+  background-color: chartreuse;
+  padding: 50px;
+}
+
+.about [class*="col-"]{
+  border: 1px solid black;
+}
+
+.contact_me{
+  color: #333333;
+  background-color: darkorange;
+  padding: 50px;
+}
+
+.contact_me [class*="col-"]{
+  border: 1px solid black;
+}
+
+.location{
+  background-color: #3a546d;
+  padding: 30px;
+  color: white;
+}
+
+.location [class*="col-"]{
+  border: 1px solid black;
+}
+
+.l_footer{
+  padding: 40px;
+  background-color: #2c3e50;
+  color: white;
 }
