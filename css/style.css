@@ -8,7 +8,21 @@
   padding: 20px;
 }
 
+.ll_margin-bottom-20{
+  margin-bottom: 20px;
+}
 
+.background_colore_acqua{
+  background-color: #1abc9c;
+}
+
+.colore_bianco{
+  color: white;
+}
+
+
+
+/* /classi generiche */
 .debug [class*="col-"]{
   min-height: 50px;
   background-color: red;
@@ -42,7 +56,7 @@
 
 .ll_header_bottom{
   margin-top: 50px;
-  background-color: #1abc9c;
+  
 }
 
 
@@ -67,7 +81,11 @@
   margin-bottom: 15px;
 }
 
+/* about */
 
+.ll_bottone_download{
+  background-color: #1abc9c;
+}
 
 
 
