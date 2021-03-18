@@ -1,5 +1,14 @@
+/* classi generiche */
+
+.ll_padding_80{
+  padding: 80px;
+}
+
+
 .debug [class*="col-"]{
   min-height: 50px;
+  background-color: red;
+  border: 1px solid black;
 }
 
 .red{
@@ -10,8 +19,24 @@
   color: white;
   background-color: #2c3e50;
 }
+.ll_navbar_brand{
 
-.jumbo_h{
+  color: white;
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  
+}
+
+
+
+
+
+
+
+.ll_junbotron{
   color: white;
   height: 200px;
   background-color: #1abc9c;
