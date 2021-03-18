@@ -1,7 +1,20 @@
+.ll_navbar {
+  position: relative;
+  min-height: 50px;
+  /* margin-bottom: 20px; */
+  border: 1px solid transparent;
+}
+
+
+
+
+
+
+
 /* classi generiche */
 
-.ll_padding_80{
-  padding: 80px;
+.ll_padding_50{
+  padding: 50px;
 }
 
 
@@ -33,13 +46,19 @@
 
 
 
-
+.ll_header_bottom{
+  background-color: #1abc9c;
+}
 
 
 .ll_junbotron{
+  width: 80%;
   color: white;
-  height: 200px;
-  background-color: #1abc9c;
+  margin: 0 auto;
+}
+
+.ll_junbotron img{
+  width: 100%;
 }
 
 .porfoglio{
